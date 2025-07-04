@@ -17,3 +17,7 @@ Design page-2: https://drive.google.com/file/d/1w4bhHrNfN62zYjBSZR-Emp__Ixuvwaqm
 For image Fetch: src={` https://ik.imagekit.io/dev24/${data?.Image}`}
 
 If you have any concerns, please let me know.
+
+AMAN GOSWAMI 
+8319403210
+AMANGOSWAMI3210@GMAIL.COM
